@@ -12,6 +12,7 @@
 
 ## Demo
 Showcase-Kurzvideo: https://youtu.be/V0gydLsA_js
+(Leicht veraltet, funktioniert jedoch gleich)
 
 ## Verwendung
 1. Ingame die Debug Console öffnen und das Skript dort einfügen, dann mit dem Local Exec Knopf ausführen. 
