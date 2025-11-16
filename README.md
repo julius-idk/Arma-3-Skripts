@@ -6,7 +6,7 @@
 - **Einfache Bedienung:** Keybind drücken → Scroll-Menü (Standart Ingame Funktion) → „Request / Confirm / Cancel“
 - **Fallschirmabwurf** exakt zur Spielerposition
 - **Marker** pro Team/Seite, Auto-Cleanup (Einsteigen / Zerstören / Löschen / Timeout)
-- **Hold-Action „Delete Quad“** vor Ort
+- **Hold-Action „Delete Quad“** beim Anschauen des Fahrzeugs
 - **Mehrspieler-robust:** `remoteExec`, `publicVariable`, JIP-Handling, Respawn-Reinit
 - **Sicherheit:** Doppeltstart-Schutz, Cooldown
 
